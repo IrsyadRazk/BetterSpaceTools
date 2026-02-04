@@ -1,0 +1,7 @@
+{
+  "name": "BetterSpaceTools-isochroneV2.0",
+  "description": "A high-fidelity geospatial tool for calculating and visualizing travel-time isochrones across Indonesia using OpenStreetMap data and advanced graph algorithms.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
